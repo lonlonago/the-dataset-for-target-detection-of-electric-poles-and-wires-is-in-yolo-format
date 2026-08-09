@@ -20,6 +20,8 @@ The dataset includes the YOLOv8s target detection weights file (training rounds 
 ![img_08.jpg](img_08.jpg)
 ![img_09.jpg](img_09.jpg)
 
+item_1070648100377
+
 Here is a pay link on Stripe ( https://buy.stripe.com/3cs8yP7sY87d0vu9AB ). Please contact me lonlonago@foxmail.com after funding $89, and I will send you a complete data files , thank you!
 
 ![111.png](111.png)
